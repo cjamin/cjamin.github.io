@@ -1,5 +1,5 @@
-# Site settings
-title: "Clément Jamin's homepage"
+ï»¿# Site settings
+title: "ClÃ©ment Jamin's homepage"
 email: clement.jamin.pro@gmail.com
 url: https://cjamin.github.io/
 description: "I'm currently working at Inria as a Research Engineer for the Geometrica team. I contribute to the CGAL library and to the GUDHI library. My skills include C++, Parallel computing, Computational geometry, Mesh generation, Geometry processing, 3D Graphics programming and High-dimensional geometry."
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: "Clément Jamin"
+footer: "ClÃ©ment Jamin"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
