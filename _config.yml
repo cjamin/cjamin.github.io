@@ -1,5 +1,5 @@
 # Site settings
-title: C. Jamin
+title: "Clément Jamin's homepage"
 email: clement.jamin.pro@gmail.com
 url: https://cjamin.github.io/
 description: "I'm currently working at Inria as a Research Engineer for the Geometrica team. I contribute to the CGAL library and to the GUDHI library. My skills include C++, Parallel computing, Computational geometry, Mesh generation, Geometry processing, 3D Graphics programming and High-dimensional geometry."
@@ -10,18 +10,10 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Clément Jamin
+footer: "Clément Jamin"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-#  - title: twitter
-#    url: https://twitter.com/SBootstrap
-#  - title: facebook
-#    url:
-#  - title: stack-overflow
-#    url: http://stackoverflow.com/questions/tagged/jekyll
-#  - title: bitbucket
-#    url: http://bitbucket.org/jekyll
   - title: linkedin
     url: https://fr.linkedin.com/in/clementjamin
   - title: github
