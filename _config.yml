@@ -1,8 +1,8 @@
 ﻿# Site settings
-title: "Clément Jamin's homepage"
+title: "Clément Jamin, ingénieur R&D indépendant en informatique"
 email: YYY@XXX.com
 url: https://cjamin.github.io/
-description: "I'm currently working at Inria as a Research Engineer for the Datashape team. I contribute to the CGAL library and to the GUDHI library. My skills include C++, Parallel computing, Computational geometry, Mesh generation, Geometry processing, 3D Graphics programming and High-dimensional geometry."
+description: "Après 6 ans passés à Inria comme ingénieur recherche, durant lesquelles j'ai notamment contribué à la bibliothèque CGAL et à la bibliothèque GUDHI, je travaille actuellement comme ingénieur R&D indépendant en informatique."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
